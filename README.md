@@ -1,5 +1,7 @@
 # photoshop-plugins
 http://www.klaia.com/
+http://www.ravelrumba.com/photoshop-grids/
+
 List of Photoshop extensions
 A list of the extensions that will help you work much faster.
 
